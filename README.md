@@ -9,5 +9,5 @@ The code used from this group unaltered contain the files:
   0211_k1k2combo.mat, and 
   yfp data sets.mat
 
-The code modified code consists of:
+The modified code consists of:
 Edit_S_eqn.m  and  S_basecode.m
