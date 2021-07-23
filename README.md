@@ -1,5 +1,6 @@
 # REU-2021-Project
 Project related to the REU on Advanced Materials.
+This project was completed by Isabel Powers, a rising junior at the University of Arkansas. She completed this work as part of the RISE at Rutgers Advanced Materials REU in the summer of 2021. 
 
 This project relied on code downloaded from another research group. Their deposit is linked here: https://github.com/satyajitdrao/PhoPQManuscript 
 
